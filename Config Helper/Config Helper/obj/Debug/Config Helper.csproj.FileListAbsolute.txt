@@ -1,0 +1,15 @@
+D:\Config Helper\Config Helper\bin\Debug\Config Helper.exe.config
+D:\Config Helper\Config Helper\bin\Debug\Config Helper.exe.manifest
+D:\Config Helper\Config Helper\bin\Debug\Config Helper.application
+D:\Config Helper\Config Helper\bin\Debug\Config Helper.exe
+D:\Config Helper\Config Helper\bin\Debug\Config Helper.pdb
+D:\Config Helper\Config Helper\obj\Debug\Config_Helper.Form1.resources
+D:\Config Helper\Config Helper\obj\Debug\Config_Helper.Properties.Resources.resources
+D:\Config Helper\Config Helper\obj\Debug\Config Helper.csproj.GenerateResource.cache
+D:\Config Helper\Config Helper\obj\Debug\Config Helper.csproj.CoreCompileInputs.cache
+D:\Config Helper\Config Helper\obj\Debug\Config Helper.TrustInfo.xml
+D:\Config Helper\Config Helper\obj\Debug\Config Helper.exe.manifest
+D:\Config Helper\Config Helper\obj\Debug\Config Helper.application
+D:\Config Helper\Config Helper\obj\Debug\Config Helper.exe
+D:\Config Helper\Config Helper\obj\Debug\Config Helper.pdb
+D:\Config Helper\Config Helper\obj\Debug\Config Helper.csprojAssemblyReference.cache
